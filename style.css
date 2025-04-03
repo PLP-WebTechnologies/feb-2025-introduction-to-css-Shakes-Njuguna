@@ -1,0 +1,47 @@
+/* Applying typography and colors */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f5f5f5;
+    color: #333;
+    text-align: center;
+    margin: 20px;
+}
+
+/* Styling the main title */
+.main-title {
+    color: #007bff;
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+/* Styling the paragraph with an ID */
+#intro {
+    font-style: italic;
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+/* Styling an image */
+.styled-image {
+    width: 300px;
+    border-radius: 10px;
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);
+    margin-bottom: 20px;
+}
+
+/* Styling a box with padding and borders */
+.box {
+    width: 60%;
+    margin: 0 auto;
+    padding: 15px;
+    border: 2px solid #007bff;
+    background-color: #fff;
+    border-radius: 8px;
+}
+
+/* Styling text inside the box */
+.highlight {
+    color: #d9534f;
+    font-weight: bold;
+}
